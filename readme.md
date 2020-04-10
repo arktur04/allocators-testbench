@@ -1,0 +1,3 @@
+This project is intended for measuring of memory allocators performans. It allows to perform many operations of malloc/free in multithread environment and evaluate a performance of the memory allocation algorithmб and survey relations between an allocated block number, their size, total allocated size and a response time.
+
+Note: see [this repository](https://github.com/arktur04/cpp-examples) for an example of a thread synchronization mechanism used in this project.
